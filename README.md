@@ -47,10 +47,10 @@ create various types of basic and advanced graphs and charts also create interac
 
 Python on using Basic packages Numpy, Pandas, matplotlib <br> Plus:
 
-*Seaborn 
-*Folium 
-*Plotly 
-*Dash
+*Seaborn <br> 
+*Folium <br> 
+*Plotly <br> 
+*Dash <br> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
