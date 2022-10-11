@@ -69,7 +69,6 @@ Clone the repo
 ### Running
 
 Code Run on Python 3.6.9 <br>
-Some Notebook will save some results on the harddick for later process and tuning 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
