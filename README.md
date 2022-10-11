@@ -1,7 +1,7 @@
 <div align="center">
-  <h3 align="center">LDA Topic Extraction</h3>
+  <h3 align="center">Data Visualization with Python Project IBM</h3>
   <p align="center">
-    Data_Visualization_with_python_Project_IBM
+    Python Dashboard
     <br />
   </p>
 </div>
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-NLP Task With 3 Notebook To Define topics from list of docs and try to find top 3 topic and top nearest docs, as the problem is unsupervised one we will try to tune our prameters. <br>
+create various types of basic and advanced graphs and charts also create interactive dashboards that allow even those without any Data Science experience to better understand data, and make more effective and informed decisions, applying  the many aspects and techniques of Data Visualization using Jupyter Notebooks and a Cloud-based IDE. useing several data visualization libraries in Python, including Matplotlib, Seaborn, Folium, Plotly & Dash . <br>
 
 Here will see:
 * Simple Notebook with LSA, LDA with sklearn, LDA with Gensim
@@ -57,11 +57,10 @@ Here will see:
 
 Python on using Basic packages Numpy, Pandas, matplotlib <br> Plus:
 
-* [Sklearn](https://scikit-learn.org/stable/)
-* [Wordcloud](https://pypi.org/project/wordcloud/)
-* [NLTK](https://www.nltk.org/install.html)
-* [Gensim](https://pypi.org/project/gensim/)
-* [Spacy](https://spacy.io/usage)
+*Seaborn 
+*Folium 
+*Plotly 
+*Dash
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -72,7 +71,7 @@ To run the source code
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mohamed-Ahmed-Abo-El-Enen/LDATopicExtraction.git
+   git clone https://github.com/AbdallahY0usef/Data_Visualization_with_python_Project_IBM_Coursera.git
    ```
 2. Install Previous packages
 5. Run Notebook eack notebook have the commands to install it from pip
