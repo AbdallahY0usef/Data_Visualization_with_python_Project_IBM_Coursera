@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">LDA Topic Extraction</h3>
   <p align="center">
-    NLP Topic Extraction Task using LDA
+    Data_Visualization_with_python_Project_IBM
     <br />
   </p>
 </div>
